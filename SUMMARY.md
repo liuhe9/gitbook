@@ -19,4 +19,5 @@
     * [创建员工时提示员工已存在于其他品牌](www/1er-tong-bi-hun-sha-duo-yi-ge-yi-yuan-de-ke-zi-lai-yuan-ff0c-chuang-jian-ke-zi-de-shi-hou-ke-yi-xuan-ze-yi-yuan-wei-ke-zi-lai-yuan-ff0c-qie-zai-ke-zi-biao-ke-shai-xuan-yi-yuan-jin-xing-jian-suo-ff1b-2-chuang-jian-ke-zi-tian-ru-xin-xi-shi-ff0c-hun-sha-shi.md)
     * [员工离职了怎么删除账号](www/yuan-gong-li-zhi-le-zen-yao-shan-chu-zhang-hao.md)
     * [提示当前应用没有绑定该分店](www/ti-shi-dang-qian-ying-yong-mei-you-bang-ding-gai-fen-dian-zen-yao-ban-ff1f.md)
+    * [管理员密码忘记怎么办？](www/guan-li-yuan-mi-ma-wang-ji-zen-yao-ban-ff1f.md)
 

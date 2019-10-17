@@ -22,4 +22,6 @@
     * [管理员密码忘记怎么办？](www/guan-li-yuan-mi-ma-wang-ji-zen-yao-ban-ff1f.md)
     * [为什么添加了部门员工，其他分店看不到呢？](www/wei-shi-yao-tian-jia-le-bu-men-yuan-gong-ff0c-qi-ta-fen-dian-kan-bu-dao-ni-ff1f.md)
     * [角色员工里每个角色代表的是什么意思？](www/jiao-se-yuan-gong-li-mei-ge-jiao-se-dai-biao-de-shi-shi-yao-yi-si-ff1f.md)
+    * [看不到创建客资按钮是因为什么原因？](www/kan-bu-dao-chuang-jian-ke-zi-an-niu-shi-yin-wei-shi-yao-yuan-yin-ff1f.md)
+    * [是否可以设置无效客资提醒功能](www/shi-fou-ke-yi-she-zhi-wu-xiao-ke-zi-ti-xing-gong-neng.md)
 

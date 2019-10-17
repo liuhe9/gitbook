@@ -2,6 +2,7 @@
 
 * [产品简介](README.md)
   * [客资系统](ke-zi-xi-tong.md)
+  * [口袋影集](kou-dai-ying-ji.md)
 * [入门指南](chapter1.md)
   * [如何购买客资系统](chapter1/ke-zi-xi-tong.md)
   * [使用V3系统对浏览器的要求](chapter1/shi-yong-v3-xi-tong-dui-liu-lan-qi-de-yao-qiu.md)

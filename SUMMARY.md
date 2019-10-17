@@ -14,4 +14,5 @@
   * [品牌设置注意事项](www/pin-pai-she-zhi-zhu-yi-shi-xiang.md)
   * [儿童和婚纱品牌系统区别](www/er-tong-he-hun-sha-pin-pai-xi-tong-qu-bie.md)
   * [创建客资的时候，提示员工已存在于其他品牌，已发送邀请，怎么办？](www/1er-tong-bi-hun-sha-duo-yi-ge-yi-yuan-de-ke-zi-lai-yuan-ff0c-chuang-jian-ke-zi-de-shi-hou-ke-yi-xuan-ze-yi-yuan-wei-ke-zi-lai-yuan-ff0c-qie-zai-ke-zi-biao-ke-shai-xuan-yi-yuan-jin-xing-jian-suo-ff1b-2-chuang-jian-ke-zi-tian-ru-xin-xi-shi-ff0c-hun-sha-shi.md)
+  * [员工离职了怎么删除账号](www/yuan-gong-li-zhi-le-zen-yao-shan-chu-zhang-hao.md)
 

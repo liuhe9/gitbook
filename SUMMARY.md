@@ -12,4 +12,5 @@
 * [系统操作](www.md)
   * [如何让系统里的客资更安全](www/ru-he-rang-xi-tong-li-de-ke-zi-geng-an-quan.md)
   * [品牌设置注意事项](www/pin-pai-she-zhi-zhu-yi-shi-xiang.md)
+  * [儿童和婚纱品牌系统区别](www/er-tong-he-hun-sha-pin-pai-xi-tong-qu-bie.md)
 

@@ -9,6 +9,7 @@
   * [系统邀约流程](chapter1/xi-tong-yao-yue-liu-cheng.md)
   * [系统门店流程](chapter1/xi-tong-men-dian-liu-cheng.md)
   * [转介绍流程](chapter1/zhuan-jie-shao-liu-cheng.md)
-* [常见问题](www.md)
-  * [登录问题](www/deng-lu-wen-ti.md)
+* [系统操作](www.md)
+  * [如何让系统里的客资更安全](www/ru-he-rang-xi-tong-li-de-ke-zi-geng-an-quan.md)
+  * [品牌设置注意事项](www/pin-pai-she-zhi-zhu-yi-shi-xiang.md)
 

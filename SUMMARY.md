@@ -24,4 +24,6 @@
     * [角色员工里每个角色代表的是什么意思？](www/jiao-se-yuan-gong-li-mei-ge-jiao-se-dai-biao-de-shi-shi-yao-yi-si-ff1f.md)
     * [看不到创建客资按钮是因为什么原因？](www/kan-bu-dao-chuang-jian-ke-zi-an-niu-shi-yin-wei-shi-yao-yuan-yin-ff1f.md)
     * [是否可以设置无效客资提醒功能](www/shi-fou-ke-yi-she-zhi-wu-xiao-ke-zi-ti-xing-gong-neng.md)
+    * [分配的时候看不到某个员工或者组](www/fen-pei-de-shi-hou-kan-bu-dao-mou-ge-yuan-gong-huo-zhe-zu.md)
+    * [分配模式有哪些？](www/fen-pei-mo-shi-you-na-xie-ff1f.md)
 

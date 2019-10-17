@@ -20,4 +20,6 @@
     * [员工离职了怎么删除账号](www/yuan-gong-li-zhi-le-zen-yao-shan-chu-zhang-hao.md)
     * [提示当前应用没有绑定该分店](www/ti-shi-dang-qian-ying-yong-mei-you-bang-ding-gai-fen-dian-zen-yao-ban-ff1f.md)
     * [管理员密码忘记怎么办？](www/guan-li-yuan-mi-ma-wang-ji-zen-yao-ban-ff1f.md)
+    * [为什么添加了部门员工，其他分店看不到呢？](www/wei-shi-yao-tian-jia-le-bu-men-yuan-gong-ff0c-qi-ta-fen-dian-kan-bu-dao-ni-ff1f.md)
+    * [角色员工里每个角色代表的是什么意思？](www/jiao-se-yuan-gong-li-mei-ge-jiao-se-dai-biao-de-shi-shi-yao-yi-si-ff1f.md)
 

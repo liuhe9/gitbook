@@ -26,4 +26,6 @@
     * [是否可以设置无效客资提醒功能](www/shi-fou-ke-yi-she-zhi-wu-xiao-ke-zi-ti-xing-gong-neng.md)
     * [分配的时候看不到某个员工或者组](www/fen-pei-de-shi-hou-kan-bu-dao-mou-ge-yuan-gong-huo-zhe-zu.md)
     * [分配模式有哪些？](www/fen-pei-mo-shi-you-na-xie-ff1f.md)
+    * [管理员能否帮员工签到？](www/guan-li-yuan-neng-fou-bang-yuan-gong-qian-dao-ff1f.md)
+    * [自定义字段为什么没有显示在客资列表里？](www/zi-ding-yi-zi-duan-wei-shi-yao-mei-you-xian-shi-zai-ke-zi-lie-biao-li-ff1f.md)
 

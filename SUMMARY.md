@@ -30,4 +30,14 @@
     * [自定义字段为什么没有显示在客资列表里？](www/zi-ding-yi-zi-duan-wei-shi-yao-mei-you-xian-shi-zai-ke-zi-lie-biao-li-ff1f.md)
     * [手机端收到提醒的时间为什么不是和录入客资时间同步的?](www/shou-ji-duan-shou-dao-ti-xing-de-shi-jian-wei-shi-yao-bu-shi-he-lu-ru-ke-zi-shi-jian-tong-bu-76843f.md)
     * [是否可以录入重复客资](www/shi-fou-ke-yi-lu-ru-zhong-fu-ke-zi.md)
+  * [客资操作](ke-zi-cao-zuo.md)
+    * 如何创建客资？
+    * 没有创建转介绍客资权限的员工如何录入？
+    * 导入客资的要求
+    * 导出客资显示乱码怎么办
+    * 可以批量处理客资吗？
+    * 昨天录入的客资今天登陆怎么看不到？
+    * 邀约处理客资的状态有哪些？
+    * 门市处理客资的状态有哪些？
+    * 如何查看客资的跟踪情况？
 

@@ -26,7 +26,7 @@
     * [是否可以设置无效客资提醒功能](是否可以设置无效客资提醒功能.md)
     * [分配的时候看不到某个员工或者组](分配的时候看不到某个员工或者组.md)
     * [分配模式有哪些？](分配模式有哪些？.md)
-    * [管理员能否帮员工签到？](www/guan-li-yuan-neng-fou-bang-yuan-gong-qian-dao-ff1f.md)
+    * [管理员能否帮员工签到？](管理员能否帮员工签到？.md)
     * [自定义字段为什么没有显示在客资列表里？](www/zi-ding-yi-zi-duan-wei-shi-yao-mei-you-xian-shi-zai-ke-zi-lie-biao-li-ff1f.md)
     * [手机端收到提醒的时间为什么不是和录入客资时间同步的?](www/shou-ji-duan-shou-dao-ti-xing-de-shi-jian-wei-shi-yao-bu-shi-he-lu-ru-ke-zi-shi-jian-tong-bu-76843f.md)
     * [是否可以录入重复客资](www/shi-fou-ke-yi-lu-ru-zhong-fu-ke-zi.md)

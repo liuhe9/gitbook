@@ -31,7 +31,7 @@
     * [手机端收到提醒的时间为什么不是和录入客资时间同步的?](www/shou-ji-duan-shou-dao-ti-xing-de-shi-jian-wei-shi-yao-bu-shi-he-lu-ru-ke-zi-shi-jian-tong-bu-76843f.md)
     * [是否可以录入重复客资](www/shi-fou-ke-yi-lu-ru-zhong-fu-ke-zi.md)
   * [客资操作](ke-zi-cao-zuo.md)
-    * 如何创建客资？
+    * [如何创建客资？](ke-zi-cao-zuo/ru-he-chuang-jian-ke-zi-ff1f.md)
     * 没有创建转介绍客资权限的员工如何录入？
     * 导入客资的要求
     * 导出客资显示乱码怎么办

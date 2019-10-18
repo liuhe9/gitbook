@@ -29,9 +29,9 @@
     * [管理员能否帮员工签到？](管理员能否帮员工签到？.md)
     * [自定义字段为什么没有显示在客资列表里？](自定义字段为什么没有显示在客资列表里？.md)
   * [客资操作](ke-zi-cao-zuo.md)
-    * [如何创建客资？](ke-zi-cao-zuo/ru-he-chuang-jian-ke-zi-ff1f.md)
-    * [没有创建转介绍客资权限的员工如何录入？](ke-zi-cao-zuo/mei-you-chuang-jian-zhuan-jie-shao-ke-zi-quan-xian-de-yuan-gong-ru-he-lu-ru-ff1f.md)
-    * [导入客资的要求](ke-zi-cao-zuo/dao-ru-ke-zi-de-yao-qiu.md)
+    * [如何创建客资？](如何创建客资？.md)
+    * [没有创建转介绍客资权限的员工如何录入？](没有创建转介绍客资权限的员工如何录入？.md)
+    * [导入客资的要求](导入客资的要求.md)
     * 导出客资显示乱码怎么办
     * 可以批量处理客资吗？
     * 昨天录入的客资今天登陆怎么看不到？

@@ -29,7 +29,6 @@
     * [管理员能否帮员工签到？](管理员能否帮员工签到？.md)
     * [自定义字段为什么没有显示在客资列表里？](自定义字段为什么没有显示在客资列表里？.md)
     * [是否可以录入重复客资](是否可以录入重复客资.md)
-    * 提示当前应用没有绑定该分店
   * [客资操作](ke-zi-cao-zuo.md)
     * [如何创建客资？](ke-zi-cao-zuo/ru-he-chuang-jian-ke-zi-ff1f.md)
     * 没有创建转介绍客资权限的员工如何录入？
@@ -54,7 +53,7 @@
   * [邀约武器](yao-yue-wu-qi.md)
     * 邀约武器是什么?
     * [如何使用邀约武器](yao-yue-wu-qi/yao-yue-wu-qi-shi-shi-4e483f.md)
-* [口袋影集](kou-dai-ying-ji.md)
+* [口袋影集](kou-dai-ying-ji1.md)
   * 影楼操作
     * [使用口袋影集对浏览器的要求](shi-yong-kou-dai-ying-ji-dui-liu-lan-qi-de-yao-qiu.md)
     * 口袋影集如何购买点数？

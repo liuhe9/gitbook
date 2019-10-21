@@ -32,13 +32,13 @@
     * [如何创建客资？](如何创建客资？.md)
     * [没有创建转介绍客资权限的员工如何录入？](没有创建转介绍客资权限的员工如何录入？.md)
     * [导入客资的要求](导入客资的要求.md)
-    * 导出客资显示乱码怎么办
-    * 可以批量处理客资吗？
-    * 昨天录入的客资今天登陆怎么看不到？
-    * 邀约处理客资的状态有哪些？
-    * 门市处理客资的状态有哪些？
-    * 如何查看客资的跟踪情况？
-    * 如何看到员工针对客资的操作
+    * [导出客资显示乱码怎么办](dao-chu-ke-zi-xian-shi-luan-ma-zen-yao-ban.md)
+    * [可以批量处理客资吗？](ke-yi-pi-liang-chu-li-ke-zi-ma-ff1f.md)
+    * [昨天录入的客资今天登陆怎么看不到？](zuo-tian-lu-ru-de-ke-zi-jin-tian-deng-lu-zen-yao-kan-bu-dao-ff1f.md)
+    * [邀约处理客资的状态有哪些？](yao-yue-chu-li-ke-zi-de-zhuang-tai-you-na-xie-ff1f.md)
+    * [门市处理客资的状态有哪些？](men-shi-chu-li-ke-zi-de-zhuang-tai-you-na-xie-ff1f.md)
+    * [如何查看客资的跟踪情况？](ru-he-cha-kan-ke-zi-de-gen-zong-qing-kuang-ff1f.md)
+    * [如何看到员工针对客资的操作](ru-he-kan-dao-yuan-gong-zhen-dui-ke-zi-de-cao-zuo.md)
     * 转移客资和分配客资的区别
     * 客资状态处理错了如何修改？
     * 如何使用客资系统跟客户对话

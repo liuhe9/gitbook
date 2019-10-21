@@ -49,7 +49,7 @@
     * [如何填写渠道投放的金额](bao-biao-cao-zuo/ru-he-tian-xie-qu-dao-tou-fang-de-jin-e.md)
     * [渠道组的员工有哪些权限？](bao-biao-cao-zuo/qu-dao-zu-de-yuan-gong-you-na-xie-quan-xian-ff1f.md)
     * [报表内的无效数据是如何定义的？](bao-biao-cao-zuo/bao-biao-nei-de-wu-xiao-shu-ju-shi-ru-he-ding-yi-de-ff1f.md)
-    * 客资怎样尽可能不外泄
+    * [客资怎样尽可能不外泄](bao-biao-cao-zuo/ke-zi-zen-yang-jin-ke-neng-bu-wai-xie.md)
     * 数据报表不准确？
   * [邀约武器](yao-yue-wu-qi.md)
     * 邀约武器是什么?

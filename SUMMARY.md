@@ -46,9 +46,9 @@
     * [如何使用客资系统跟客户对话](如何使用客资系统跟客户对话.md)
     * [是否可以录入重复客资](是否可以录入重复客资.md)
   * [报表操作](bao-biao-cao-zuo.md)
-    * 如何填写渠道投放的金额
-    * 渠道组的员工有哪些权限？
-    * 报表内的无效数据是如何定义的？
+    * [如何填写渠道投放的金额](bao-biao-cao-zuo/ru-he-tian-xie-qu-dao-tou-fang-de-jin-e.md)
+    * [渠道组的员工有哪些权限？](bao-biao-cao-zuo/qu-dao-zu-de-yuan-gong-you-na-xie-quan-xian-ff1f.md)
+    * [报表内的无效数据是如何定义的？](bao-biao-cao-zuo/bao-biao-nei-de-wu-xiao-shu-ju-shi-ru-he-ding-yi-de-ff1f.md)
     * 客资怎样尽可能不外泄
     * 数据报表不准确？
   * [邀约武器](yao-yue-wu-qi.md)

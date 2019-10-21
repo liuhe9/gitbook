@@ -27,7 +27,9 @@
     * [分配的时候看不到某个员工或者组](分配的时候看不到某个员工或者组.md)
     * [分配模式有哪些？](分配模式有哪些？.md)
     * [管理员能否帮员工签到？](管理员能否帮员工签到？.md)
+    * [是否可以录入重复客资](是否可以录入重复客资.md)
     * [自定义字段为什么没有显示在客资列表里？](自定义字段为什么没有显示在客资列表里？.md)
+    * [手机端收到提醒的时间为什么不是和录入客资时间同步的?](shou-ji-duan-shou-dao-ti-xing-de-shi-jian-wei-shi-yao-bu-shi-he-lu-ru-ke-zi-shi-jian-tong-bu-76843f.md)
   * [客资操作](ke-zi-cao-zuo.md)
     * [如何创建客资？](如何创建客资？.md)
     * [没有创建转介绍客资权限的员工如何录入？](没有创建转介绍客资权限的员工如何录入？.md)
@@ -42,7 +44,6 @@
     * [转移客资和分配客资的区别](zhuan-yi-ke-zi-he-fen-pei-ke-zi-de-qu-bie.md)
     * [客资状态处理错了如何修改？](ke-zi-zhuang-tai-chu-li-cuo-le-ru-he-xiu-gai-ff1f.md)
     * [如何使用客资系统跟客户对话](ru-he-shi-yong-ke-zi-xi-tong-gen-ke-hu-dui-hua.md)
-    * [客资绑定了微信可以解绑换个微信绑定吗？](ke-zi-bang-ding-le-wei-xin-ke-yi-jie-bang-huan-ge-wei-xin-bang-ding-ma-ff1f.md)
     * [是否可以录入重复客资](是否可以录入重复客资.md)
   * [报表操作](bao-biao-cao-zuo.md)
     * 如何填写渠道投放的金额

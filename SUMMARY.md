@@ -29,7 +29,7 @@
     * [管理员能否帮员工签到？](管理员能否帮员工签到？.md)
     * [是否可以录入重复客资](是否可以录入重复客资.md)
     * [自定义字段为什么没有显示在客资列表里？](自定义字段为什么没有显示在客资列表里？.md)
-    * [手机端收到提醒的时间为什么不是和录入客资时间同步的?](shou-ji-duan-shou-dao-ti-xing-de-shi-jian-wei-shi-yao-bu-shi-he-lu-ru-ke-zi-shi-jian-tong-bu-76843f.md)
+    * [手机端提醒注意事项](shou-ji-duan-ti-xing-zhu-yi-shi-xiang.md)
   * [客资操作](ke-zi-cao-zuo.md)
     * [如何创建客资？](如何创建客资？.md)
     * [没有创建转介绍客资权限的员工如何录入？](没有创建转介绍客资权限的员工如何录入？.md)

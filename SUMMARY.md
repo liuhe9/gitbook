@@ -42,8 +42,8 @@
     * [转移客资和分配客资的区别](zhuan-yi-ke-zi-he-fen-pei-ke-zi-de-qu-bie.md)
     * [客资状态处理错了如何修改？](ke-zi-zhuang-tai-chu-li-cuo-le-ru-he-xiu-gai-ff1f.md)
     * [如何使用客资系统跟客户对话](ru-he-shi-yong-ke-zi-xi-tong-gen-ke-hu-dui-hua.md)
-    * 客资绑定了微信可以解绑换个微信绑定吗？
-  * [是否可以录入重复客资](是否可以录入重复客资.md)
+    * [客资绑定了微信可以解绑换个微信绑定吗？](ke-zi-bang-ding-le-wei-xin-ke-yi-jie-bang-huan-ge-wei-xin-bang-ding-ma-ff1f.md)
+    * [是否可以录入重复客资](是否可以录入重复客资.md)
   * [报表操作](bao-biao-cao-zuo.md)
     * 如何填写渠道投放的金额
     * 渠道组的员工有哪些权限？

@@ -39,9 +39,9 @@
     * [门市处理客资的状态有哪些？](men-shi-chu-li-ke-zi-de-zhuang-tai-you-na-xie-ff1f.md)
     * [如何查看客资的跟踪情况？](ru-he-cha-kan-ke-zi-de-gen-zong-qing-kuang-ff1f.md)
     * [如何看到员工针对客资的操作](ru-he-kan-dao-yuan-gong-zhen-dui-ke-zi-de-cao-zuo.md)
-    * 转移客资和分配客资的区别
-    * 客资状态处理错了如何修改？
-    * 如何使用客资系统跟客户对话
+    * [转移客资和分配客资的区别](zhuan-yi-ke-zi-he-fen-pei-ke-zi-de-qu-bie.md)
+    * [客资状态处理错了如何修改？](ke-zi-zhuang-tai-chu-li-cuo-le-ru-he-xiu-gai-ff1f.md)
+    * [如何使用客资系统跟客户对话](ru-he-shi-yong-ke-zi-xi-tong-gen-ke-hu-dui-hua.md)
     * 客资绑定了微信可以解绑换个微信绑定吗？
   * [是否可以录入重复客资](是否可以录入重复客资.md)
   * [报表操作](bao-biao-cao-zuo.md)

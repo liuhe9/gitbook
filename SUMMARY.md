@@ -60,8 +60,8 @@
     * [口袋影集如何购买点数？](kou-dai-ying-ji/ying-lou-cao-zuo/kou-dai-ying-ji-ru-he-gou-mai-dian-shu-ff1f.md)
     * [如何使用口袋影集获客？](kou-dai-ying-ji/ying-lou-cao-zuo/ru-he-shi-yong-kou-dai-ying-ji-huo-ke-ff1f.md)
     * [如何创建员工并添加权限？](kou-dai-ying-ji/ying-lou-cao-zuo/ru-he-chuang-jian-yuan-gong-bing-tian-jia-quan-xian-ff1f.md)
-    * 如何创建客户订单
-    * 客户订单电话填错了怎么办？
+    * [如何创建客户订单](kou-dai-ying-ji/ying-lou-cao-zuo/ru-he-chuang-jian-ke-hu-ding-dan.md)
+    * [客户订单电话填错了怎么办？](kou-dai-ying-ji/ying-lou-cao-zuo/ke-hu-ding-dan-dian-hua-tian-cuo-le-zen-yao-ban-ff1f.md)
     * 如何上传客户照片？
     * [能否文件拖拉上传客户照片？](kou-dai-ying-ji/ying-lou-cao-zuo/neng-fou-wen-jian-tuo-la-shang-chuan-ke-hu-zhao-pian-ff1f.md)
     * 如何给到客户照片？

@@ -62,10 +62,10 @@
     * [如何创建员工并添加权限？](kou-dai-ying-ji/ying-lou-cao-zuo/ru-he-chuang-jian-yuan-gong-bing-tian-jia-quan-xian-ff1f.md)
     * [如何创建客户订单](kou-dai-ying-ji/ying-lou-cao-zuo/ru-he-chuang-jian-ke-hu-ding-dan.md)
     * [客户订单电话填错了怎么办？](kou-dai-ying-ji/ying-lou-cao-zuo/ke-hu-ding-dan-dian-hua-tian-cuo-le-zen-yao-ban-ff1f.md)
-    * 如何上传客户照片？
+    * [如何上传客户照片？](kou-dai-ying-ji/ying-lou-cao-zuo/ru-he-shang-chuan-ke-hu-zhao-pian-ff1f.md)
     * [能否文件拖拉上传客户照片？](kou-dai-ying-ji/ying-lou-cao-zuo/neng-fou-wen-jian-tuo-la-shang-chuan-ke-hu-zhao-pian-ff1f.md)
-    * 如何给到客户照片？
-    * 如何添加公众号菜单指引？
+    * [如何给到客户照片？](kou-dai-ying-ji/ying-lou-cao-zuo/ru-he-gei-dao-ke-hu-zhao-pian-ff1f.md)
+    * [如何添加公众号菜单指引？](kou-dai-ying-ji/ying-lou-cao-zuo/ru-he-tian-jia-gong-zhong-hao-cai-dan-zhi-yin-ff1f.md)
     * 如何通知客户底片上传完成或者请柬相册制作完成？
     * 为什么下载不是原图？
     * 图片保存的时间是多久？

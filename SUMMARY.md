@@ -71,6 +71,6 @@
     * [图片保存的时间是多久？](kou-dai-ying-ji/ying-lou-cao-zuo/tu-pian-bao-cun-de-shi-jian-shi-duo-jiu-ff1f.md)
     * [如何创建广告并插入广告？](kou-dai-ying-ji/ying-lou-cao-zuo/ru-he-chuang-jian-guang-gao-bing-cha-ru-guang-gao-ff1f.md)
     * [如何设置点赞活动及弹幕？](kou-dai-ying-ji/ying-lou-cao-zuo/ru-he-she-zhi-dian-zan-huo-dong-ji-dan-mu-ff1f.md)
-    * 在哪看获客信息？
-    * 获客数据能自动同步到V3客资里吗？
+    * [在哪看获客信息？](kou-dai-ying-ji/ying-lou-cao-zuo/zai-na-kan-huo-ke-xin-xi-ff1f.md)
+    * [获客数据能自动同步到V3客资里吗？](kou-dai-ying-ji/ying-lou-cao-zuo/huo-ke-shu-ju-neng-zi-dong-tong-bu-dao-v3-ke-zi-li-ma-ff1f.md)
 

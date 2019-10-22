@@ -73,4 +73,8 @@
     * [如何设置点赞活动及弹幕？](kou-dai-ying-ji/ying-lou-cao-zuo/ru-he-she-zhi-dian-zan-huo-dong-ji-dan-mu-ff1f.md)
     * [在哪看获客信息？](kou-dai-ying-ji/ying-lou-cao-zuo/zai-na-kan-huo-ke-xin-xi-ff1f.md)
     * [获客数据能自动同步到V3客资里吗？](kou-dai-ying-ji/ying-lou-cao-zuo/huo-ke-shu-ju-neng-zi-dong-tong-bu-dao-v3-ke-zi-li-ma-ff1f.md)
+  * [客户操作](kou-dai-ying-ji/ke-hu-cao-zuo.md)
+    * [客户如何在手机上下载照片？](kou-dai-ying-ji/ke-hu-cao-zuo/ke-hu-ru-he-zai-shou-ji-shang-xia-zai-zhao-pian-ff1f.md)
+    * [客户如何在电脑上下载照片？](kou-dai-ying-ji/ke-hu-cao-zuo/ke-hu-ru-he-zai-dian-nao-shang-xia-zai-zhao-pian-ff1f.md)
+    * 客户如何自己制作请柬相册？（音乐图说制作方式一样）
 

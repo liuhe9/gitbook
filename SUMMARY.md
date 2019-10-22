@@ -53,5 +53,5 @@
     * [数据报表不准确？](数据报表不准确？.md)
   * [邀约武器](ke-zi-xi-tong/yao-yue-wu-qi.md)
     * [邀约武器是什么?](ke-zi-xi-tong/yao-yue-wu-qi/yao-yue-wu-qi-shi-shi-4e483f.md)
-    * 如何使用邀约武器
+    * [如何使用邀约武器](ke-zi-xi-tong/yao-yue-wu-qi/ru-he-shi-yong-yao-yue-wu-qi.md)
 

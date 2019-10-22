@@ -2,7 +2,7 @@
 
 * [产品简介](README.md)
   * [客资3.0系统](ke-zi-xi-tong.md)
-  * [口袋影集](kou-dai-ying-ji.md)
+  * [口袋影集系统](kou-dai-ying-ji.md)
 * [客资系统](ke-zi-xi-tong.md)
   * [入门指南](ke-zi-xi-tong/ru-men-zhi-nan.md)
     * [如何购买V3系统产品](如何购买V3系统产品.md)

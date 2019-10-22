@@ -82,7 +82,7 @@
     * [如何收藏小程序](kou-dai-ying-ji/ke-hu-cao-zuo/ru-he-shou-cang-xiao-cheng-xu.md)
     * [如何发送弹幕祝福](kou-dai-ying-ji/ke-hu-cao-zuo/ru-he-fa-song-dan-mu-zhu-fu.md)
     * [如何参与集赞活动](kou-dai-ying-ji/ke-hu-cao-zuo/ru-he-can-yu-ji-zan-huo-dong.md)
-    * 如何领取优惠券
+    * [如何领取优惠券](kou-dai-ying-ji/ke-hu-cao-zuo/ru-he-ling-qu-you-hui-quan.md)
     * 如何填写参加婚宴的信息
     * 如何查看参加婚宴来宾的详情
 

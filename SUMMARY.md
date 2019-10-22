@@ -85,4 +85,9 @@
     * [如何领取优惠券](kou-dai-ying-ji/ke-hu-cao-zuo/ru-he-ling-qu-you-hui-quan.md)
     * [如何填写参加婚宴的信息](kou-dai-ying-ji/ke-hu-cao-zuo/ru-he-tian-xie-can-jia-hun-yan-de-xin-xi.md)
     * [如何查看参加婚宴来宾的详情](kou-dai-ying-ji/ke-hu-cao-zuo/ru-he-cha-kan-can-jia-hun-yan-lai-bin-de-xiang-qing.md)
+  * [音乐图说、请柬制作](kou-dai-ying-ji/yin-le-tu-shuo-3001-qing-jian-zhi-zuo.md)
+    * [如何预览音乐图说及请柬模板](kou-dai-ying-ji/yin-le-tu-shuo-3001-qing-jian-zhi-zuo/ru-he-yu-lan-yin-le-tu-shuo-ji-qing-jian-mo-ban.md)
+    * 音乐图说如何制作？
+    * 请柬如何制作？
+    * 请柬如何添加地址选择坐标
 

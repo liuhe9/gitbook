@@ -90,4 +90,7 @@
     * [音乐图说如何制作？](kou-dai-ying-ji/yin-le-tu-shuo-3001-qing-jian-zhi-zuo/yin-le-tu-shuo-ru-he-zhi-zuo-ff1f.md)
     * [请柬如何制作？](kou-dai-ying-ji/yin-le-tu-shuo-3001-qing-jian-zhi-zuo/qing-jian-ru-he-zhi-zuo-ff1f.md)
     * [请柬如何添加地址选择坐标](kou-dai-ying-ji/yin-le-tu-shuo-3001-qing-jian-zhi-zuo/qing-jian-ru-he-tian-jia-di-zhi-xuan-ze-zuo-biao.md)
+  * [视频功能](kou-dai-ying-ji/shi-pin-gong-neng.md)
+    * [如何上传视频给到客户](kou-dai-ying-ji/shi-pin-gong-neng/ru-he-shang-chuan-shi-pin-gei-dao-ke-hu.md)
+    * 客户如何下载视频
 

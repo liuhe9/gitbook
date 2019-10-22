@@ -76,5 +76,5 @@
   * [客户操作](kou-dai-ying-ji/ke-hu-cao-zuo.md)
     * [客户如何在手机上下载照片？](kou-dai-ying-ji/ke-hu-cao-zuo/ke-hu-ru-he-zai-shou-ji-shang-xia-zai-zhao-pian-ff1f.md)
     * [客户如何在电脑上下载照片？](kou-dai-ying-ji/ke-hu-cao-zuo/ke-hu-ru-he-zai-dian-nao-shang-xia-zai-zhao-pian-ff1f.md)
-    * 客户如何自己制作请柬相册？（音乐图说制作方式一样）
+    * [客户如何自己制作请柬相册？（音乐图说制作方式一样）](kou-dai-ying-ji/ke-hu-cao-zuo/ke-hu-ru-he-zi-ji-zhi-zuo-qing-jian-xiang-ce-ff1f-ff08-yin-le-tu-shuo-zhi-zuo-fang-shi-yi-yang-ff09.md)
 

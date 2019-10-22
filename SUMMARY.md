@@ -58,8 +58,8 @@
   * [影楼操作](kou-dai-ying-ji/ying-lou-cao-zuo.md)
     * [使用口袋影集对浏览器的要求](kou-dai-ying-ji/ying-lou-cao-zuo/shi-yong-kou-dai-ying-ji-dui-liu-lan-qi-de-yao-qiu.md)
     * [口袋影集如何购买点数？](kou-dai-ying-ji/ying-lou-cao-zuo/kou-dai-ying-ji-ru-he-gou-mai-dian-shu-ff1f.md)
-    * 如何使用口袋影集获客？
-    * 如何创建员工并添加权限？
+    * [如何使用口袋影集获客？](kou-dai-ying-ji/ying-lou-cao-zuo/ru-he-shi-yong-kou-dai-ying-ji-huo-ke-ff1f.md)
+    * [如何创建员工并添加权限？](kou-dai-ying-ji/ying-lou-cao-zuo/ru-he-chuang-jian-yuan-gong-bing-tian-jia-quan-xian-ff1f.md)
     * 如何创建客户订单
     * 客户订单电话填错了怎么办？
     * 如何上传客户照片？

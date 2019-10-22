@@ -77,4 +77,12 @@
     * [客户如何在手机上下载照片？](kou-dai-ying-ji/ke-hu-cao-zuo/ke-hu-ru-he-zai-shou-ji-shang-xia-zai-zhao-pian-ff1f.md)
     * [客户如何在电脑上下载照片？](kou-dai-ying-ji/ke-hu-cao-zuo/ke-hu-ru-he-zai-dian-nao-shang-xia-zai-zhao-pian-ff1f.md)
     * [客户如何自己制作请柬相册？（音乐图说制作方式一样）](kou-dai-ying-ji/ke-hu-cao-zuo/ke-hu-ru-he-zi-ji-zhi-zuo-qing-jian-xiang-ce-ff1f-ff08-yin-le-tu-shuo-zhi-zuo-fang-shi-yi-yang-ff09.md)
+    * [客户如何设置请柬的地址坐标](kou-dai-ying-ji/ke-hu-cao-zuo/ke-hu-ru-he-she-zhi-qing-jian-de-di-zhi-zuo-biao.md)
+    * 客户如何转发给朋友或分享到朋友圈？
+    * 如何收藏小程序
+    * 如何发送弹幕祝福
+    * 如何参与集赞活动
+    * 如何领取优惠券
+    * 如何填写参加婚宴的信息
+    * 如何查看参加婚宴来宾的详情
 
